@@ -56,7 +56,7 @@ Computer Science Tutor
 Present
 {: .text-center}
 * Tutoring year 11 school students in Computer Science
-[ ](#link){: .btn}
+[a](#link){: .btn}
 [ ](#link){: .btn}
 **SEO London**
 {: .text-center}
