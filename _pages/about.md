@@ -15,5 +15,6 @@ layouts_gallery:
 last_modified_at: 2017-11-06T16:27:14-05:00
 toc: true
 ---
-
+Center aligned text.
+{: .text-center}
 My name's Brandon Skerritt. I'm a programmer, hiker, adventurer and problem solver.
