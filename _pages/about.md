@@ -17,6 +17,7 @@ toc: true
 ---
 
 My name's Brandon Skerritt.
+{: .text-center}
 To me, computer science is the beautiful art of solving complex problems with logical and abstract solutions. I have been problem solving since I was a child and programming since I was 11.
 
 I have been selected by SEO London, an organisation that trains and connections exceptional people from poor backgrounds to succeed.
