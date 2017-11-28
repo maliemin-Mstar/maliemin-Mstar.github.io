@@ -57,6 +57,7 @@ Present
 * Tutoring year 11 school students in Computer Science
 {: .text-center}
 
+
 **SEO London**
 {: .text-center}
 Engineering Engagement Programme
@@ -65,6 +66,7 @@ Engineering Engagement Programme
 * Selected to go to the highly sought after EEP by SEO London
 * Met with multiple recruiters and learnt many valuable employability lessions
 {: .text-center}
+
 
 **University of Liverpool**
 {: .text-center}
@@ -75,6 +77,7 @@ Present
 * Regularly attend meetings to discuss and improve the department
 {: .text-center}
 
+
 **University of Liverpool**
 {: .text-center}
 Health and Welfare Representative of Carnatic Student Village
@@ -82,6 +85,7 @@ Health and Welfare Representative of Carnatic Student Village
 * Running anti-sexual harrasment campaigns
 * Preventing students from dropping out of university for personal reasons that could be helped with
 {: .text-center}
+
 
 **East Kent College**
 {: .text-center}
@@ -92,6 +96,7 @@ Higher Education Vice President
 * As the only student union officer (there were supposed to be 10) I did everything from campaigning to events to looking after students.
 {: .text-center}
 
+
 **IDI Sprachen- und Dolmetscher-Institut**
 {: .text-center}
 Guest Speaker
@@ -100,12 +105,31 @@ Guest Speaker
 * Informally talked to students after the lecture about everything to do with England
 {: .text-center}
 
+
 **Kent Events / freelance events marshal**
 {: .text-center}
 Marshal / Security / Parking
 {: .text-center}
 * Worked at over 50 events
 * In depth knowledge of how events are organised and ran
+{: .text-center}
+
+
+**Code Portfolio**
+{: .text-center}
+
+**LilJimbo**
+{: .text-center}
+![LilJimbo](https://i.imgur.com/aoqUElx.gif "LilJimbo")
+{: .text-center}
+Designed to provide first-aid information to prevent overuse of 999 and A&E for things that could simply be solved such as minor burns.
+{: .text-center}
+<a href="#" class="btn btn--primary">Python</a>
+<a href="#" class="btn btn--primary">Natural Language Processing</a>
+<a href="#" class="btn btn--primary">Heroku</a>
+<a href="#" class="btn btn--primary">Facebook Chatbot</a>
+<a href="#" class="btn btn--primary">Flask</a>
+<a href="#" class="btn btn--primary">Requests</a>
 {: .text-center}
 
 
