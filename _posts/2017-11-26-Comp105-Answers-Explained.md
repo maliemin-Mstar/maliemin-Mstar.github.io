@@ -16,6 +16,14 @@ Look at the following code:
 p n = if n == 0 then 1 else 2 * p(n-1)
 ```
 
+```Python
+Print("this is a test")
+if 0 == 0:
+  print("0")
+else:
+  print("1")
+```
+
 What is the result of the query p 4?
 
 This is a recursive function, as such it is best for us to walk through it step by step.
