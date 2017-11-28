@@ -52,6 +52,7 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 **University of Liverpool**
 {: .text-center}
 Computer Science Tutor
+{: .text-center}
 Present
 * Tutoring year 11 school students in Computer Science
 {: .text-center}
@@ -59,6 +60,7 @@ Present
 **SEO London**
 {: .text-center}
 Engineering Engagement Programme
+{: .text-center}
 2017
 * Selected to go to the highly sought after EEP by SEO London
 * Met with multiple recruiters and learnt many valuable employability lessions
@@ -67,6 +69,7 @@ Engineering Engagement Programme
 **University of Liverpool**
 {: .text-center}
 Course Representative / Facutly Representative
+{: .text-center}
 Present
 * Representing over 200 students in Computer Science
 * Regularly attend meetings to discuss and improve the department
@@ -75,6 +78,7 @@ Present
 **University of Liverpool**
 {: .text-center}
 Health and Welfare Representative of Carnatic Student Village
+{: .text-center}
 * Running anti-sexual harrasment campaigns
 * Preventing students from dropping out of university for personal reasons that could be helped with
 {: .text-center}
@@ -82,6 +86,7 @@ Health and Welfare Representative of Carnatic Student Village
 **East Kent College**
 {: .text-center}
 Higher Education Vice President
+{: .text-center}
 * Improved Student Union student's approval rating from ~30% to ~95%
 * Interviewed and recruited the next student union president
 * As the only student union officer (there were supposed to be 10) I did everything from campaigning to events to looking after students.
@@ -90,6 +95,7 @@ Higher Education Vice President
 **IDI Sprachen- und Dolmetscher-Institut**
 {: .text-center}
 Guest Speaker
+{: .text-center}
 * Gave a 2 hour lecture on England and the English language
 * Informally talked to students after the lecture about everything to do with England
 {: .text-center}
@@ -97,6 +103,7 @@ Guest Speaker
 **Kent Events / freelance events marshal**
 {: .text-center}
 Marshal / Security / Parking
+{: .text-center}
 * Worked at over 50 events
 * In depth knowledge of how events are organised and ran
 {: .text-center}
