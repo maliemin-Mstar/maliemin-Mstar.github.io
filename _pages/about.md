@@ -28,8 +28,8 @@ I have been selected by SEO London, an organisation that trains and connections 
 I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffield 3.0.
 {: .text-center}
 
-Languages
-{: .text-bold text-center}
+**Languages**
+{: .text-center}
 <a href="#" class="btn btn--primary">Sign Language</a>
 <a href="#" class="btn btn--primary">Python</a>
 <a href="#" class="btn btn--primary">Haskell</a>
