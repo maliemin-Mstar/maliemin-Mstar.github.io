@@ -59,6 +59,7 @@ Present
 {: .text-center}  
    
  
+  
 **SEO London**
 {: .text-center}
 Engineering Engagement Programme
@@ -70,6 +71,7 @@ Engineering Engagement Programme
 {: .text-center}  
  
  
+  
 **University of Liverpool**
 {: .text-center}
 Course Representative / Facutly Representative
