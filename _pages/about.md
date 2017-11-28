@@ -56,8 +56,11 @@ Computer Science Tutor
 Present
 {: .text-center}
 * Tutoring year 11 school students in Computer Science
-[a](#link){: .btn}
+{: .text-center}
+
 [ ](#link){: .btn}
+[ ](#link){: .btn}
+
 **SEO London**
 {: .text-center}
 Engineering Engagement Programme
@@ -66,10 +69,11 @@ Engineering Engagement Programme
 {: .text-center}
 * Selected to go to the highly sought after EEP by SEO London
 * Met with multiple recruiters and learnt many valuable employability lessions
-{: .text-center}  
 {: .text-center}
-{: .text-center}
-{: .text-center}
+
+[ ](#link){: .btn}
+[ ](#link){: .btn}
+
 **University of Liverpool**
 {: .text-center}
 Course Representative / Facutly Representative
@@ -80,6 +84,8 @@ Present
 * Regularly attend meetings to discuss and improve the department
 {: .text-center}  
  
+[ ](#link){: .btn}
+[ ](#link){: .btn}
   
 **University of Liverpool**
 {: .text-center}
