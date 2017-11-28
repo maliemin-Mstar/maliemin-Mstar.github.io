@@ -50,12 +50,14 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 {: .text-center}
 
 **University of Liverpool**
+{: .text-center}
 Computer Science Tutor
 Present
 * Tutoring year 11 school students in Computer Science
 {: .text-center}
 
 **SEO London**
+{: .text-center}
 Engineering Engagement Programme
 2017
 * Selected to go to the highly sought after EEP by SEO London
@@ -63,6 +65,7 @@ Engineering Engagement Programme
 {: .text-center}
 
 **University of Liverpool**
+{: .text-center}
 Course Representative / Facutly Representative
 Present
 * Representing over 200 students in Computer Science
@@ -70,26 +73,33 @@ Present
 {: .text-center}
 
 **University of Liverpool**
+{: .text-center}
 Health and Welfare Representative of Carnatic Student Village
 * Running anti-sexual harrasment campaigns
 * Preventing students from dropping out of university for personal reasons that could be helped with
+{: .text-center}
 
 **East Kent College**
+{: .text-center}
 Higher Education Vice President
 * Improved Student Union student's approval rating from ~30% to ~95%
 * Interviewed and recruited the next student union president
 * As the only student union officer (there were supposed to be 10) I did everything from campaigning to events to looking after students.
+{: .text-center}
 
 **IDI Sprachen- und Dolmetscher-Institut**
+{: .text-center}
 Guest Speaker
 * Gave a 2 hour lecture on England and the English language
 * Informally talked to students after the lecture about everything to do with England
+{: .text-center}
 
 **Kent Events / freelance events marshal**
+{: .text-center}
 Marshal / Security / Parking
 * Worked at over 50 events
 * In depth knowledge of how events are organised and ran
-
+{: .text-center}
 
 
 {: .text-center}
