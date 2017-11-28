@@ -60,7 +60,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "@brandonskerritt"
 facebook:
   username               :
   app_id                 :
@@ -82,11 +82,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Brandon Skerritt"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Obsessive problem solver who loves learning"
+  location         : "Liverpool, United Kingdom"
+  email            : "skerritt@protonmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,13 +94,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "brandonskerritt"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "brandonskerritt"
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "brandonls"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
