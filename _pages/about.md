@@ -57,9 +57,9 @@ Present
 {: .text-center}
 * Tutoring year 11 school students in Computer Science
 {: .text-center}  
-   
- 
-  
+{: .text-center}
+{: .text-center}
+{: .text-center}
 **SEO London**
 {: .text-center}
 Engineering Engagement Programme
@@ -69,9 +69,9 @@ Engineering Engagement Programme
 * Selected to go to the highly sought after EEP by SEO London
 * Met with multiple recruiters and learnt many valuable employability lessions
 {: .text-center}  
- 
- 
-  
+{: .text-center}
+{: .text-center}
+{: .text-center}
 **University of Liverpool**
 {: .text-center}
 Course Representative / Facutly Representative
