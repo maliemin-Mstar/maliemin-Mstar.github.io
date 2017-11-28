@@ -57,8 +57,9 @@ Present
 {: .text-center}
 * Tutoring year 11 school students in Computer Science
 {: .text-center}  
+   
+ 
   
-<br/><br/>  
 **SEO London**
 {: .text-center}
 Engineering Engagement Programme
