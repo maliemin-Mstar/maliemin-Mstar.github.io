@@ -1,10 +1,11 @@
 # main links
 main:
-   - title: "About"
-    url: https://www.brandonskerritt.github.io/about/
-    - title: "Code"
-    url: https://www.brandonskerritt.github.io/code/
-    - title: "Blog"
+  - title: "Home"
+    url: /_pages/home.md
+  - title: "About"
+    url: /_pages/about.md
+  - title: "Code"
+    url: /_pages/code.md
+  - title: "Blog"
     url: https://medium.com/@brandonskerritt51
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
