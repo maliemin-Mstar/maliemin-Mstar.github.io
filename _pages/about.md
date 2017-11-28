@@ -18,14 +18,19 @@ toc: true
 
 My name's Brandon Skerritt.
 {: .text-center}
-To me, computer science is the beautiful art of solving complex problems with logical and abstract solutions. I have been problem solving since I was a child and programming since I was 11.
+To me, computer science is the beautiful art of solving complex problems with logical and abstract solutions.
+{: .text-center}
+I have been problem solving since I was a child and programming since I was 11.
 {: .text-center}
 
 I have been selected by SEO London, an organisation that trains and connections exceptional people from poor backgrounds to succeed.
 {: .text-center}
 I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffield 3.0.
 {: .text-center}
-##Skills
+
+Languages
+{: .text-bold text-center}
+<a href="#" class="btn btn--primary">Sign Language</a>
 <a href="#" class="btn btn--primary">Python</a>
 <a href="#" class="btn btn--primary">Haskell</a>
 <a href="#" class="btn btn--primary">Shell</a>
