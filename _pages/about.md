@@ -29,6 +29,7 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 {: .text-center}
 
 **Languages**
+{: .text-center}
 <a href="#" class="btn btn--primary">Sign Language</a>
 <a href="#" class="btn btn--primary">Python</a>
 <a href="#" class="btn btn--primary">Haskell</a>
@@ -43,8 +44,42 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 <a href="#" class="btn btn--primary">Alexa</a>
 <a href="#" class="btn btn--primary">Capital One</a>
 <a href="#" class="btn btn--primary">Spotify</a>
+{: .text-center}
 
 **Experience**
+{: .text-center}
+
+**University of Liverpool**
+Computer Science Tutor
+Present
+* Tutoring year 11 school students in Computer Science
+{: .text-center}
+
+**SEO London**
+Engineering Engagement Programme
+2017
+* Selected to go to the highly sought after EEP by SEO London
+* Met with multiple recruiters and learnt many valuable employability lessions
+{: .text-center}
+
+**University of Liverpool**
+Course Representative / Facutly Representative
+Present
+* Representing over 200 students in Computer Science
+* Regularly attend meetings to discuss and improve the department
+{: .text-center}
+
+**University of Liverpool**
+Health and Welfare Representative of Carnatic Student Village
+* Running anti-sexual harrasment campaigns
+* Preventing students from dropping out of university for personal reasons that could be helped with
+
+**East Kent College**
+Higher Education Vice President
+* Improved Student Union student's approval rating from ~30% to ~95%
+* Interviewed and recruited the next student union president
+* As the only student union officer (there were supposed to be 10) I did everything from campaigning to events to looking after students.
+
 
 
 {: .text-center}
