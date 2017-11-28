@@ -18,3 +18,20 @@ toc: true
 Center aligned text.
 {: .text-center}
 My name's Brandon Skerritt. I'm a programmer, hiker, adventurer and problem solver.
+
+My name's Brandon Skerritt.
+To me, computer science is the beautiful art of solving complex problems with logical and abstract solutions. I have been problem solving since I was a child and programming since I was 11.
+
+I have been selected by SEO London, an organisation that trains and connections exceptional people from poor backgrounds to succeed.
+
+I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffield 3.0.
+
+##Skills
+<a href="#" class="btn btn--primary">Python</a>
+<a href="#" class="btn btn--primary">Haskell</a>
+<a href="#" class="btn btn--primary">Shell</a>
+
+
+
+
+{: .text-center}
