@@ -1,7 +1,12 @@
 ---
-layout: post
-title: Comp105 Answers Explained
+title: "Comp105 Answers Explained"
+categories:
+  - Comp105
+tags:
+  - Haskell
+  - Functional
 ---
+
 
 **Question 1**
 
