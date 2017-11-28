@@ -96,8 +96,11 @@ Present
 * Running anti-sexual harrasment campaigns
 * Preventing students from dropping out of university for personal reasons that could be helped with
 {: .text-center}
- 
- 
+
+[ ](#link){: .btn}
+[ ](#link){: .btn}
+
+
 **East Kent College**
 {: .text-center}
 Higher Education Vice President
@@ -108,8 +111,11 @@ Higher Education Vice President
 * Interviewed and recruited the next student union president
 * As the only student union officer (there were supposed to be 10) I did everything from campaigning to events to looking after students.
 {: .text-center}
- 
- 
+
+[ ](#link){: .btn}
+[ ](#link){: .btn}
+
+
 **IDI Sprachen- und Dolmetscher-Institut**
 {: .text-center}
 Guest Speaker
@@ -119,8 +125,11 @@ Guest Speaker
 * Gave a 2 hour lecture on England and the English language
 * Informally talked to students after the lecture about everything to do with England
 {: .text-center}
- 
- 
+
+[ ](#link){: .btn}
+[ ](#link){: .btn}
+
+
 **Kent Events / freelance events marshal**
 {: .text-center}
 Marshal / Security / Parking
@@ -130,8 +139,11 @@ Marshal / Security / Parking
 * Worked at over 50 events
 * In depth knowledge of how events are organised and ran
 {: .text-center}
- 
- 
+
+[ ](#link){: .btn}
+[ ](#link){: .btn}
+
+
 **Code Portfolio**
 {: .text-center}
  
