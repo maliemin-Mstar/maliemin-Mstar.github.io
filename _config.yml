@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brandon Skerritt"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Obsessive problem solver who loves learning"
   location         : "Liverpool, United Kingdom"
