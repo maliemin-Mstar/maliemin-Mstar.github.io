@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+title: "About Me"
+excerpt: "About Brandon Skerritt"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
