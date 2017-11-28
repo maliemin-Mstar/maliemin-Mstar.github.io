@@ -56,10 +56,8 @@ Computer Science Tutor
 Present
 {: .text-center}
 * Tutoring year 11 school students in Computer Science
-{: .text-center}  
-{: .text-center}
-{: .text-center}
-{: .text-center}
+[ ](#link){: .btn}
+[ ](#link){: .btn}
 **SEO London**
 {: .text-center}
 Engineering Engagement Programme
