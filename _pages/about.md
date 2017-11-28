@@ -80,6 +80,16 @@ Higher Education Vice President
 * Interviewed and recruited the next student union president
 * As the only student union officer (there were supposed to be 10) I did everything from campaigning to events to looking after students.
 
+**IDI Sprachen- und Dolmetscher-Institut**
+Guest Speaker
+* Gave a 2 hour lecture on England and the English language
+* Informally talked to students after the lecture about everything to do with England
+
+**Kent Events / freelance events marshal**
+Marshal / Security / Parking
+* Worked at over 50 events
+* In depth knowledge of how events are organised and ran
+
 
 
 {: .text-center}
