@@ -54,6 +54,7 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 Computer Science Tutor
 {: .text-center}
 Present
+{: .text-center}
 * Tutoring year 11 school students in Computer Science
 {: .text-center}
 
@@ -63,6 +64,7 @@ Present
 Engineering Engagement Programme
 {: .text-center}
 2017
+{: .text-center}
 * Selected to go to the highly sought after EEP by SEO London
 * Met with multiple recruiters and learnt many valuable employability lessions
 {: .text-center}
@@ -73,6 +75,7 @@ Engineering Engagement Programme
 Course Representative / Facutly Representative
 {: .text-center}
 Present
+{: .text-center}
 * Representing over 200 students in Computer Science
 * Regularly attend meetings to discuss and improve the department
 {: .text-center}
@@ -82,6 +85,8 @@ Present
 {: .text-center}
 Health and Welfare Representative of Carnatic Student Village
 {: .text-center}
+Present
+{: .text-center}
 * Running anti-sexual harrasment campaigns
 * Preventing students from dropping out of university for personal reasons that could be helped with
 {: .text-center}
@@ -90,6 +95,8 @@ Health and Welfare Representative of Carnatic Student Village
 **East Kent College**
 {: .text-center}
 Higher Education Vice President
+{: .text-center}
+2016
 {: .text-center}
 * Improved Student Union student's approval rating from ~30% to ~95%
 * Interviewed and recruited the next student union president
@@ -101,6 +108,8 @@ Higher Education Vice President
 {: .text-center}
 Guest Speaker
 {: .text-center}
+2016
+{: .text-center}
 * Gave a 2 hour lecture on England and the English language
 * Informally talked to students after the lecture about everything to do with England
 {: .text-center}
@@ -109,6 +118,8 @@ Guest Speaker
 **Kent Events / freelance events marshal**
 {: .text-center}
 Marshal / Security / Parking
+{: .text-center}
+2014 - 2017
 {: .text-center}
 * Worked at over 50 events
 * In depth knowledge of how events are organised and ran
