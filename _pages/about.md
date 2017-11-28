@@ -59,7 +59,6 @@ Present
 {: .text-center}  
    
  
-  
 **SEO London**
 {: .text-center}
 Engineering Engagement Programme
@@ -69,8 +68,8 @@ Engineering Engagement Programme
 * Selected to go to the highly sought after EEP by SEO London
 * Met with multiple recruiters and learnt many valuable employability lessions
 {: .text-center}  
-  
-
+ 
+ 
 **University of Liverpool**
 {: .text-center}
 Course Representative / Facutly Representative
@@ -80,7 +79,7 @@ Present
 * Representing over 200 students in Computer Science
 * Regularly attend meetings to discuss and improve the department
 {: .text-center}  
-  
+ 
   
 **University of Liverpool**
 {: .text-center}
@@ -91,8 +90,8 @@ Present
 * Running anti-sexual harrasment campaigns
 * Preventing students from dropping out of university for personal reasons that could be helped with
 {: .text-center}
-
-
+ 
+ 
 **East Kent College**
 {: .text-center}
 Higher Education Vice President
@@ -103,8 +102,8 @@ Higher Education Vice President
 * Interviewed and recruited the next student union president
 * As the only student union officer (there were supposed to be 10) I did everything from campaigning to events to looking after students.
 {: .text-center}
-
-
+ 
+ 
 **IDI Sprachen- und Dolmetscher-Institut**
 {: .text-center}
 Guest Speaker
@@ -114,8 +113,8 @@ Guest Speaker
 * Gave a 2 hour lecture on England and the English language
 * Informally talked to students after the lecture about everything to do with England
 {: .text-center}
-
-
+ 
+ 
 **Kent Events / freelance events marshal**
 {: .text-center}
 Marshal / Security / Parking
@@ -125,11 +124,11 @@ Marshal / Security / Parking
 * Worked at over 50 events
 * In depth knowledge of how events are organised and ran
 {: .text-center}
-
-
+ 
+ 
 **Code Portfolio**
 {: .text-center}
-
+ 
 **LilJimbo**
 {: .text-center}
 ![LilJimbo](https://i.imgur.com/aoqUElx.gif "LilJimbo")
