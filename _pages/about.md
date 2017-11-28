@@ -29,7 +29,6 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 {: .text-center}
 
 **Languages**
-{: .text-center}
 <a href="#" class="btn btn--primary">Sign Language</a>
 <a href="#" class="btn btn--primary">Python</a>
 <a href="#" class="btn btn--primary">Haskell</a>
@@ -38,7 +37,14 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 <a href="#" class="btn btn--primary">Git</a>
 {: .text-center}
 
+**Frameworks and APIs**
+{: .text-center}
+<a href="#" class="btn btn--primary">Bootstrap</a>
+<a href="#" class="btn btn--primary">Alexa</a>
+<a href="#" class="btn btn--primary">Capital One</a>
+<a href="#" class="btn btn--primary">Spotify</a>
 
+**Experience**
 
 
 {: .text-center}
