@@ -86,47 +86,31 @@ I did everything from campaigning to events to looking after students.<br>
 
 <details><summary>Expand to find out more!</summary><p>
 
-**University of Liverpool**
-  {: .text-center}
-  Computer Science Tutor
-  {: .text-center}
-  Present
-  {: .text-center}
-  * Tutoring year 11 school students in Computer Science
-  {: .text-center}
+<h2>University of Liverpool</h2>
+  <b>Computer Science Tutor<b><br>
+  Present<br>
+  Tutoring year 11 school students in Computer Science
+  <br>
 
-    **IDI Sprachen- und Dolmetscher-Institut**
-  {: .text-center}
-  Guest Speaker
-  {: .text-center}
+  <h2>IDI Sprachen- und Dolmetscher-Institut*</h2>
+  </b>Guest Speaker</b><br>
   2016
-  {: .text-center}
-  * Gave a 2 hour lecture on England and the English language
-  * Informally talked to students after the lecture about everything to do with England
-  {: .text-center}
+  Gave a 2 hour lecture on England and the English language<br>
+  Informally talked to students after the lecture about everything to do with England
+  <br>
 
-   **University of Liverpool**
-  {: .text-center}
-  Health and Welfare Representative of Carnatic Student Village
-  {: .text-center}
-  Present
-  {: .text-center}
-  * Running anti-sexual harrasment campaigns
-  * Preventing students from dropping out of university for personal reasons that could be helped with
-  {: .text-center}
+  <h2>University of Liverpool</h2>
+  <b>Health and Welfare Representative of Carnatic Student Village</b><br>
+  Present<br>
+  Running anti-sexual harrasment campaigns<br>
+  Preventing students from dropping out of university for personal reasons that could be helped with
 
-    **Kent Events / freelance events marshal**
-  {: .text-center}
-  Marshal / Security / Parking
-  {: .text-center}
-  2014 - 2017
-  {: .text-center}
-  * Worked at over 50 events
-  * In depth knowledge of how events are organised and ran
-  {: .text-center}
+  <h2>Kent Events / freelance events marshal</h2>
+  <b>Marshal / Security / Parking</b><br>
+  2014 - 2017<br>
+  Worked at over 50 events<br>
+  In depth knowledge of how events are organised and ran
 
-  [ ](#link){: .btn}
-  [ ](#link){: .btn}
 </p></details>
 
 <br>
