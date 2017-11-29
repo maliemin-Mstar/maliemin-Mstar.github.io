@@ -49,7 +49,7 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 **Experience**
 {: .text-center}  
 ---
-
+<center>
 <p>
 <h1>University of Liverpool</h1>
 {: .text-center}
@@ -94,7 +94,7 @@ Higher Education Vice President
 [ ](#link){: .btn}
 
 </p>
-
+</center>
 <details>
   <summary><b>Other Experience - Click to Expand</b></summary><p>
 
