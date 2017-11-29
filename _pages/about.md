@@ -50,12 +50,13 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 {: .text-center}  
 ---
 <center>
-<p .text-center>
 <h2>University of Liverpool</h2>
-Course Representative / Facutly Representative of Computer Science
-Present
-* Representing over 200 students in Computer Science
-* Regularly attend meetings to discuss and improve the department
+Course Representative / Facutly Representative of Computer Science<br>
+Present <br>
+<ul>
+<li>Representing over 200 students in Computer Science
+<li>Regularly attend meetings to discuss and improve the department
+</ul>
 <br>
 <h2>SEO London</h2>
 
