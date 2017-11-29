@@ -96,7 +96,9 @@ Higher Education Vice President
 <details>
   <summary><b>Other Experience - Click to Expand</b></summary><p>
 
-  **University of Liverpool**
+## _formatted_ **heading** with [a](link)
+
+**University of Liverpool**
   {: .text-center}
   Computer Science Tutor
   {: .text-center}
