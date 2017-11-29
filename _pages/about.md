@@ -59,21 +59,21 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 ---
 <center>
 <h2>University of Liverpool</h2>
-<h3>Course Representative / Facutly Representative of Computer Science</h3>
+<b>Course Representative / Facutly Representative of Computer Science</b>
 Present <br>
 Representing over 200 students in Computer Science<br>
 Regularly attend meetings to discuss and improve the department
 <br>
 
 <h2>SEO London</h2>
-<h3>Engineering Engagement Programme</h3>
+<b>Engineering Engagement Programme</b>
 2017
 Selected to go to the highly sought after EEP by SEO London<br>
 Met with multiple recruiters and learnt many valuable employability lessions
 <br>
 
 <h2>East Kent College<h2>
-<h3>Higher Education Vice President</h3>
+<b>Higher Education Vice President</b>
 2016<br>
 Improved Student Union student's approval rating from ~30% to ~95%<br>
 Interviewed and recruited the next student union president<br>
