@@ -80,17 +80,15 @@ Interviewed and recruited the next student union president<br>
 As the only student union officer (there were supposed to be 10)<br>
 I did everything from campaigning to events to looking after students.<br>
 
-
+</p>
 <br>
 
-<center>
 <details>
   <summary><b>Other Experience - Click to Expand<b></summary><p>
 
-## _formatted_ **heading** with [a](link)
-
 <h1>University of Liverpool</h1>
 <br>
+
 
 **University of Liverpool**
   {: .text-center}
