@@ -48,7 +48,7 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 
 **Experience**
 {: .text-center}  
-
+---
 **University of Liverpool**
 {: .text-center}
 Computer Science Tutor
@@ -70,7 +70,7 @@ Engineering Engagement Programme
 * Selected to go to the highly sought after EEP by SEO London
 * Met with multiple recruiters and learnt many valuable employability lessions
 {: .text-center}
-
+--
 [ ](#link){: .btn}
 [ ](#link){: .btn}
 
