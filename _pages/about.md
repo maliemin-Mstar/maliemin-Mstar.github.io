@@ -94,7 +94,7 @@ Higher Education Vice President
 
 
 <details>
-  <summary>Other Experience - Click to Expand</summary>
+  <summary><b>Other Experience - Click to Expand</b></summary><p>
 
   **University of Liverpool**
   {: .text-center}
@@ -150,6 +150,7 @@ Higher Education Vice President
   [ ](#link){: .btn}
   [ ](#link){: .btn}
 
+</p>
 </details>
 {: .text-center}
 
