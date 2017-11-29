@@ -98,7 +98,7 @@ Higher Education Vice President
 
 ## _formatted_ **heading** with [a](link)
 
-<h1>University of Liverpool<h1>
+<h1>University of Liverpool</h1>
 <br>
 
 **University of Liverpool**
