@@ -44,7 +44,7 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 <a href="#" class="btn btn--primary">Git</a>
 {: .text-center}
 
-(CLICK HERE)[test.html]
+
 
 **Frameworks and APIs**
 {: .text-center}
@@ -59,39 +59,33 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 ---
 <center>
 <h2>University of Liverpool</h2>
-Course Representative / Facutly Representative of Computer Science<br>
+<h3>Course Representative / Facutly Representative of Computer Science</h3>
 Present <br>
 Representing over 200 students in Computer Science<br>
 Regularly attend meetings to discuss and improve the department
 <br>
 
 <h2>SEO London</h2>
-<br>
-Engineering Engagement Programme
-<br>2017
+<h3>Engineering Engagement Programme</h3>
+2017
 Selected to go to the highly sought after EEP by SEO London<br>
 Met with multiple recruiters and learnt many valuable employability lessions
 <br>
 
 <h2>East Kent College<h2>
-Higher Education Vice President
-{: .text-center}
-2016
-{: .text-center}
-* Improved Student Union student's approval rating from ~30% to ~95%
-* Interviewed and recruited the next student union president
-* As the only student union officer (there were supposed to be 10) I did everything from campaigning to events to looking after students.
-{: .text-center}
-
-[ ](#link){: .btn}
-[ ](#link){: .btn}
+<h3>Higher Education Vice President</h3>
+2016<br>
+Improved Student Union student's approval rating from ~30% to ~95%<br>
+Interviewed and recruited the next student union president<br>
+As the only student union officer (there were supposed to be 10) I did everything from campaigning to events to looking after students.<br>
 
 </p>
 </center>
 
+<br>
 
 <details>
-  <summary><b>Other Experience - Click to Expand</b></summary><p>
+  <summary><h2>Other Experience - Click to Expand</h2></summary><p>
 
 ## _formatted_ **heading** with [a](link)
 
