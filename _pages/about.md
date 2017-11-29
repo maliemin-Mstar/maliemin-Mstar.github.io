@@ -49,6 +49,7 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 **Experience**
 {: .text-center}  
 ---
+<center>
 <p .text-center>
 <h2>University of Liverpool</h2>
 Course Representative / Facutly Representative of Computer Science
@@ -84,7 +85,8 @@ Higher Education Vice President
 [ ](#link){: .btn}
 [ ](#link){: .btn}
 
-</p .text-center>
+</p>
+</center>
 
 
 <details>
