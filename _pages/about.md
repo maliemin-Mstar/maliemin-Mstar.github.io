@@ -112,8 +112,8 @@ I did everything from campaigning to events to looking after students.<br>
   In depth knowledge of how events are organised and ran
 
 </p></details>
-</br>
-**Code Portfolio**
+<br><br>
+<h1>Code Portfolio<h1>
 {: .text-center}
  
 **LilJimbo**
