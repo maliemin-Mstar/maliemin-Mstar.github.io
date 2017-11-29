@@ -114,8 +114,9 @@ I did everything from campaigning to events to looking after students.<br>
 </p></details>
 <br><br>
 <h1>Code Portfolio</h1>
- 
-**LilJimbo**
+<br>
+<br>
+<h2>LilJimbo</h2>
 <br>
 <img src="https://i.imgur.com/aoqUElx.gif"><br>
 Designed to provide first-aid information to prevent overuse of 999 and A&E for things that could simply be solved such as minor burns.<br>
