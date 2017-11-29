@@ -113,22 +113,16 @@ I did everything from campaigning to events to looking after students.<br>
 
 </p></details>
 <br><br>
-<h1>Code Portfolio<h1>
-{: .text-center}
+<h1>Code Portfolio</h1>
  
 **LilJimbo**
-{: .text-center}
-![LilJimbo](https://i.imgur.com/aoqUElx.gif "LilJimbo")
-{: .text-center}
-Designed to provide first-aid information to prevent overuse of 999 and A&E for things that could simply be solved such as minor burns.
-{: .text-center}
+<br>
+<img src="https://i.imgur.com/aoqUElx.gif"></img>
+Designed to provide first-aid information to prevent overuse of 999 and A&E for things that could simply be solved such as minor burns.<br>
 <a href="#" class="btn btn--primary">Python</a>
 <a href="#" class="btn btn--primary">Natural Language Processing</a>
 <a href="#" class="btn btn--primary">Heroku</a>
 <a href="#" class="btn btn--primary">Facebook Chatbot</a>
 <a href="#" class="btn btn--primary">Flask</a>
 <a href="#" class="btn btn--primary">Requests</a>
-{: .text-center}
 
-
-{: .text-center}
