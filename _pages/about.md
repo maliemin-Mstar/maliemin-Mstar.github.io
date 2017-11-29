@@ -117,7 +117,7 @@ I did everything from campaigning to events to looking after students.<br>
  
 **LilJimbo**
 <br>
-<img src="https://i.imgur.com/aoqUElx.gif"></img>
+<img src="https://i.imgur.com/aoqUElx.gif"><br>
 Designed to provide first-aid information to prevent overuse of 999 and A&E for things that could simply be solved such as minor burns.<br>
 <a href="#" class="btn btn--primary">Python</a>
 <a href="#" class="btn btn--primary">Natural Language Processing</a>
