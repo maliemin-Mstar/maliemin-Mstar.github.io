@@ -112,10 +112,7 @@ I did everything from campaigning to events to looking after students.<br>
   In depth knowledge of how events are organised and ran
 
 </p></details>
-
-<br>
-<br>
-<br>
+</br>
 **Code Portfolio**
 {: .text-center}
  
