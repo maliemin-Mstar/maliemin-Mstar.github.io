@@ -80,11 +80,11 @@ Interviewed and recruited the next student union president<br>
 As the only student union officer (there were supposed to be 10)<br>
 I did everything from campaigning to events to looking after students.<br>
 
-</p>
+
 <br>
 
 
-<details><summary>stuff with *mark* **down**</summary><p>
+<details><summary>Expand to find out more!</summary><p>
 
 **University of Liverpool**
   {: .text-center}
@@ -129,7 +129,9 @@ I did everything from campaigning to events to looking after students.<br>
   [ ](#link){: .btn}
 </p></details>
 
-
+<br>
+<br>
+<br>
 **Code Portfolio**
 {: .text-center}
  
