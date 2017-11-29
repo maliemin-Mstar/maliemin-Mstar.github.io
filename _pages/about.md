@@ -83,12 +83,8 @@ I did everything from campaigning to events to looking after students.<br>
 </p>
 <br>
 
-<details>
-  <summary><b>Other Experience - Click to Expand<b></summary><p>
 
-<h1>University of Liverpool</h1>
-<br>
-
+<details><summary>stuff with *mark* **down**</summary><p>
 
 **University of Liverpool**
   {: .text-center}
@@ -99,10 +95,7 @@ I did everything from campaigning to events to looking after students.<br>
   * Tutoring year 11 school students in Computer Science
   {: .text-center}
 
-  [ ](#link){: .btn}
-  [ ](#link){: .btn}
-
-  **IDI Sprachen- und Dolmetscher-Institut**
+    **IDI Sprachen- und Dolmetscher-Institut**
   {: .text-center}
   Guest Speaker
   {: .text-center}
@@ -112,10 +105,7 @@ I did everything from campaigning to events to looking after students.<br>
   * Informally talked to students after the lecture about everything to do with England
   {: .text-center}
 
-  [ ](#link){: .btn}
-  [ ](#link){: .btn}
-
-  **University of Liverpool**
+   **University of Liverpool**
   {: .text-center}
   Health and Welfare Representative of Carnatic Student Village
   {: .text-center}
@@ -125,13 +115,7 @@ I did everything from campaigning to events to looking after students.<br>
   * Preventing students from dropping out of university for personal reasons that could be helped with
   {: .text-center}
 
-    
-
-  [ ](#link){: .btn}
-  [ ](#link){: .btn}
-
-
-  **Kent Events / freelance events marshal**
+    **Kent Events / freelance events marshal**
   {: .text-center}
   Marshal / Security / Parking
   {: .text-center}
@@ -143,14 +127,9 @@ I did everything from campaigning to events to looking after students.<br>
 
   [ ](#link){: .btn}
   [ ](#link){: .btn}
-
-</p>
-</details>
+</p></details>
 
 
----
-  [ ](#link){: .btn}
-  [ ](#link){: .btn}
 **Code Portfolio**
 {: .text-center}
  
