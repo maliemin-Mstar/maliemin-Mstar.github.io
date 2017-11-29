@@ -16,12 +16,6 @@ last_modified_at: 2017-11-06T16:27:14-05:00
 toc: true
 ---
 
-<details>
-  <summary>Click to expand</summary>
-  THIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TEST
-</details>
-
-
 My name's Brandon Skerritt.
 {: .text-center}
 To me, computer science is the beautiful art of solving complex problems with logical and abstract solutions.
@@ -57,15 +51,17 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 ---
 **University of Liverpool**
 {: .text-center}
-Computer Science Tutor
+Course Representative / Facutly Representative of Computer Science
 {: .text-center}
 Present
 {: .text-center}
-* Tutoring year 11 school students in Computer Science
-{: .text-center}
+* Representing over 200 students in Computer Science
+* Regularly attend meetings to discuss and improve the department
+{: .text-center}  
+ 
+[ ](#link){: .btn}
+[ ](#link){: .btn}
 
-[ ](#link){: .btn}
-[ ](#link){: .btn}
 
 **SEO London**
 {: .text-center}
@@ -77,32 +73,6 @@ Engineering Engagement Programme
 * Met with multiple recruiters and learnt many valuable employability lessions
 {: .text-center}
 --
-[ ](#link){: .btn}
-[ ](#link){: .btn}
-
-**University of Liverpool**
-{: .text-center}
-Course Representative / Facutly Representative
-{: .text-center}
-Present
-{: .text-center}
-* Representing over 200 students in Computer Science
-* Regularly attend meetings to discuss and improve the department
-{: .text-center}  
- 
-[ ](#link){: .btn}
-[ ](#link){: .btn}
-  
-**University of Liverpool**
-{: .text-center}
-Health and Welfare Representative of Carnatic Student Village
-{: .text-center}
-Present
-{: .text-center}
-* Running anti-sexual harrasment campaigns
-* Preventing students from dropping out of university for personal reasons that could be helped with
-{: .text-center}
-
 [ ](#link){: .btn}
 [ ](#link){: .btn}
 
@@ -122,35 +92,70 @@ Higher Education Vice President
 [ ](#link){: .btn}
 
 
-**IDI Sprachen- und Dolmetscher-Institut**
-{: .text-center}
-Guest Speaker
-{: .text-center}
-2016
-{: .text-center}
-* Gave a 2 hour lecture on England and the English language
-* Informally talked to students after the lecture about everything to do with England
-{: .text-center}
 
-[ ](#link){: .btn}
-[ ](#link){: .btn}
+<details>
+  <summary>Other Experience - Click to Expand</summary>
+
+  **University of Liverpool**
+  {: .text-center}
+  Computer Science Tutor
+  {: .text-center}
+  Present
+  {: .text-center}
+  * Tutoring year 11 school students in Computer Science
+  {: .text-center}
+
+  [ ](#link){: .btn}
+  [ ](#link){: .btn}
+
+  **IDI Sprachen- und Dolmetscher-Institut**
+  {: .text-center}
+  Guest Speaker
+  {: .text-center}
+  2016
+  {: .text-center}
+  * Gave a 2 hour lecture on England and the English language
+  * Informally talked to students after the lecture about everything to do with England
+  {: .text-center}
+
+  [ ](#link){: .btn}
+  [ ](#link){: .btn}
+
+  **University of Liverpool**
+  {: .text-center}
+  Health and Welfare Representative of Carnatic Student Village
+  {: .text-center}
+  Present
+  {: .text-center}
+  * Running anti-sexual harrasment campaigns
+  * Preventing students from dropping out of university for personal reasons that could be helped with
+  {: .text-center}
+
+    
+
+  [ ](#link){: .btn}
+  [ ](#link){: .btn}
 
 
-**Kent Events / freelance events marshal**
-{: .text-center}
-Marshal / Security / Parking
-{: .text-center}
-2014 - 2017
-{: .text-center}
-* Worked at over 50 events
-* In depth knowledge of how events are organised and ran
-{: .text-center}
+  **Kent Events / freelance events marshal**
+  {: .text-center}
+  Marshal / Security / Parking
+  {: .text-center}
+  2014 - 2017
+  {: .text-center}
+  * Worked at over 50 events
+  * In depth knowledge of how events are organised and ran
+  {: .text-center}
 
-[ ](#link){: .btn}
-[ ](#link){: .btn}
+  [ ](#link){: .btn}
+  [ ](#link){: .btn}
+
+</details>
+
 
 ---
-
+  [ ](#link){: .btn}
+  [ ](#link){: .btn}
 **Code Portfolio**
 {: .text-center}
  
