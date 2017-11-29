@@ -151,6 +151,7 @@ Higher Education Vice President
   [ ](#link){: .btn}
 
 </details>
+{: .text-center}
 
 
 ---
