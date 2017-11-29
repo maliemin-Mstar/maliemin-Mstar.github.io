@@ -50,24 +50,16 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 {: .text-center}  
 ---
 <p .text-center>
-<h1>University of Liverpool</h1>
-{: .text-center}
+<h2>University of Liverpool</h2>
 Course Representative / Facutly Representative of Computer Science
-{: .text-center}
 Present
-{: .text-center}
 * Representing over 200 students in Computer Science
 * Regularly attend meetings to discuss and improve the department
-{: .text-center}  
- 
-[ ](#link){: .btn}
-[ ](#link){: .btn}
+<br>
+<h2>SEO London</h2>
 
-
-**SEO London**
-{: .text-center}
 Engineering Engagement Programme
-{: .text-center}
+
 2017
 {: .text-center}
 * Selected to go to the highly sought after EEP by SEO London
