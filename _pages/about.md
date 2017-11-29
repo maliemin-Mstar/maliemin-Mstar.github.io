@@ -15,6 +15,12 @@ layouts_gallery:
 last_modified_at: 2017-11-06T16:27:14-05:00
 toc: true
 ---
+<style>
+ul {
+  list-style-position: inside;
+}
+</style>
+
 
 <h1>My name's Brandon Skerritt.</h1>
 {: .text-center}
@@ -53,7 +59,7 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 <h2>University of Liverpool</h2>
 Course Representative / Facutly Representative of Computer Science<br>
 Present <br>
-<ul list-style-position: inside;>
+<ul>
 <li>Representing over 200 students in Computer Science
 <li>Regularly attend meetings to discuss and improve the department
 </ul>
