@@ -16,6 +16,12 @@ last_modified_at: 2017-11-06T16:27:14-05:00
 toc: true
 ---
 
+<details>
+  <summary>Click to expand</summary>
+  THIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TESTTHIS IS A TEST
+</details>
+
+
 My name's Brandon Skerritt.
 {: .text-center}
 To me, computer science is the beautiful art of solving complex problems with logical and abstract solutions.
