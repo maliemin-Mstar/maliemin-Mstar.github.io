@@ -19,7 +19,7 @@ author_profile: true
 
 
 
-{: .text-center}
+
 <centre>
 <h2><a href="https://devpost.com/software/bank-of-alexa">Bank of Alexa</a></h2>
 <center>Control Capital One bank accounts with Alexa, essentially a virtual teller machine.
@@ -52,7 +52,7 @@ Designed to provide first-aid information to prevent overuse of 999 and A&E for 
 
 <br>
 
-{: .text-center}
+
 <centre>
 <h2><a href="https://devpost.com/software/bet-a-way">Bet-a-way</a></h2>
 <center>Bet-a-way looks are sports matches from Skybets. <br>It is based on the amount of money the user wants to gamble, and the probability of winning and projected earnings. <br> We also present the user with several flights from Skyscanner that fit the earnings.
@@ -70,7 +70,7 @@ Designed to provide first-aid information to prevent overuse of 999 and A&E for 
 
 <br>
 
-{: .text-center}
+
 <centre>
 <h2><a href="https://devpost.com/software/ka-bomb-com">Ka-bomb.com</a></h2>
 <center>Ka-bomb.com allows players to play a light clone of Bomberman online with 256 players.
@@ -82,7 +82,7 @@ Designed to provide first-aid information to prevent overuse of 999 and A&E for 
 
 <br>
 
-{: .text-center}
+
 <centre>
 <h2><a href="https://github.com/brandonskerritt/ciphey">Ciphey</a></h2>
 <center>Simple automatic decryption tool with English detection.
@@ -93,7 +93,7 @@ Designed to provide first-aid information to prevent overuse of 999 and A&E for 
 
 <br>
 
-{: .text-center}
+
 <centre>
 <h2><a href="https://github.com/brandonskerritt/Hotel_assignment">Broadstairs Hotel</a></h2>
 <center>This is a website made for Broadstairs Hotel, for an assignment I was given.
@@ -106,7 +106,7 @@ Designed to provide first-aid information to prevent overuse of 999 and A&E for 
 
 <br>
 
-{: .text-center}
+
 <centre>
 <h2><a href="https://github.com/brandonskerritt/counter_bro_miami">Counter Bro Miami</a></h2>
 <center>This is a game created in Unity for an assignment I was given. This game is a mix-up of Counter Strike and Hotline Miami.
