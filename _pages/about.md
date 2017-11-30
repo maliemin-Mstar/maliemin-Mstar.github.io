@@ -56,7 +56,6 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 
 ---
 <h1>Experience</h1>
-
 {: .text-center}  
 <center>
 <h2>University of Liverpool</h2>
