@@ -21,7 +21,7 @@ toc: true
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <h2 a=https://devpost.com/software/bank-of-alexa)> Bank of Alexa </a>
+      <a href="https://devpost.com/software/bank-of-alexa"><h2> Bank of Alexa </a></h2>
       {: .text-center}
       Control Capital One bank accounts with Alexa, essentially a virtual teller machine.
       {: .text-center}
