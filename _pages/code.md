@@ -15,11 +15,15 @@ layouts_gallery:
 last_modified_at: 2017-11-06T16:27:14-05:00
 toc: true
 ---
-<html>
-  <head>
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-  HELLO!!
-  </body>
-</html>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<div class="container">
+  <div class="row">
+    <div class="col"></div>
+    <div class="col">Column</div>
+    <div class="w-100"><h2><a href="https://devpost.com/software/bank-of-alexa">Bank of Alexa</a></h2></div>
+    <div class="col">Column</div>
+    <div class="col">Column</div>
+  </div>
+</div>
