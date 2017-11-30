@@ -53,10 +53,9 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 <a href="#" class="btn btn--primary">Capital One</a>
 <a href="#" class="btn btn--primary">Spotify</a>
 {: .text-center}
-
+---
 **Experience**
 {: .text-center}  
----
 <center>
 <h2>University of Liverpool</h2>
 <b>Course Representative / Faculty Representative of Computer Science</b><br>
@@ -112,6 +111,7 @@ I did everything from campaigning to events to looking after students.<br>
   In depth knowledge of how events are organised and ran
 
 </p></details>
+---
 <br><br>
 <h1>Code Portfolio</h1>
 <br>

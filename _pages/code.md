@@ -17,7 +17,7 @@ toc: true
 ---
 
 
-
+---
 # [Bank of Alexa](https://devpost.com/software/bank-of-alexa)
 {: .text-center}
 Control Capital One bank accounts with Alexa, essentially a virtual teller machine.
@@ -34,7 +34,7 @@ Control Capital One bank accounts with Alexa, essentially a virtual teller machi
 {: .text-center}
 Best use of Amazon Web Services at Hacknotts 2016
 {: .text-center}
-
+---
 # [Bet-a-way](https://devpost.com/software/bet-a-way)
 Bet-a-way looks are sports matches from skybets.it and based on the amount of money the user want's to gamble, and the probability of winning and projected earnings, we present the user with several flights from skyscanner that fit the price range.
 ## Made with
