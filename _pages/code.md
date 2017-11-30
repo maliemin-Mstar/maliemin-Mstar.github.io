@@ -16,7 +16,36 @@ last_modified_at: 2017-11-06T16:27:14-05:00
 toc: true
 ---
 
+<center>
 
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <h2 a=https://devpost.com/software/bank-of-alexa)> Bank of Alexa </a>
+      {: .text-center}
+      Control Capital One bank accounts with Alexa, essentially a virtual teller machine.
+      {: .text-center}
+      ## Made with
+      {: .text-center}
+      * Capital One's Nessi API
+      * Python
+      * Flask
+      * Alexa
+      * Amazon Web Services
+      {: .text-center}
+      ## Awards
+      {: .text-center}
+      Best use of Amazon Web Services at Hacknotts 2016
+      {: .text-center}
+    </div>
+    <div class="col-sm">
+      One of three columns
+    </div>
+    <div class="col-sm">
+      One of three columns
+    </div>
+  </div>
+</div>
 ---
 # [Bank of Alexa](https://devpost.com/software/bank-of-alexa)
 {: .text-center}
@@ -92,3 +121,4 @@ This is a TODO list using Github and knowledge of BASH. This is a private repo (
 * quick add an item to the todo list and auto-upload it to Git using commands in BASHRC
 * auto-loads TODO list every time you open clear the terminal screen
 
+</center>
