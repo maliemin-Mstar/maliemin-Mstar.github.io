@@ -30,19 +30,19 @@ To me, computer science is the beautiful art of solving complex problems with lo
 I have been problem solving since I was a child and programming since I was 11.
 {: .text-center}
 
-I have been selected by SEO London, an organisation that trains and connections exceptional people from poor backgrounds to succeed.
+I have been selected by SEO London, an organisation that trains and connects exceptional people from poor backgrounds to succeed.
 {: .text-center}
-I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffield 3.0.
+I have won 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffield 3.0.
 {: .text-center}
 
 **Languages**
 {: .text-center}
-<a href="https://www.british-sign.co.uk/" class="btn btn--primary">Sign Language</a>
 <a href="https://www.python.org/" class="btn btn--primary">Python</a>
 <a href="https://www.haskell.org/" class="btn btn--primary">Haskell</a>
 <a href="http://www.unix.org/whitepapers/shdiffs.html" class="btn btn--primary">Shell</a>
 <a href="https://en.wikipedia.org/wiki/HTML" class="btn btn--primary">HTML5 & CSS3</a>
 <a href="https://git-scm.com/" class="btn btn--primary">Git</a>
+<a href="https://www.british-sign.co.uk/" class="btn btn--primary">Sign Language</a>
 {: .text-center}
 
 

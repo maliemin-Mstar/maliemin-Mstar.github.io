@@ -17,9 +17,7 @@ toc: true
 author_profile: true
 ---
 
-<center>
-test
-</center>
+
 
 {: .text-center}
 <centre>
@@ -32,7 +30,73 @@ test
 <a href="#" class="btn btn--primary">Flask</a>
 <a href="#" class="btn btn--primary">Alexa</a>
 <a href="#" class="btn btn--primary">Amazon Web Services</a>
-{: .text-center}
 <h3>Awards</h3>
 <li>Best use of Amazon Web Services at Hacknotts 2016
 <h3>Live Demo</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4BFneUfHtzA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+<br>
+
+{: .text-center}
+<centre>
+<h2><a href="https://devpost.com/software/bet-a-way">Bet-a-way</a></h2>
+<center>Bet-a-way looks are sports matches from Skybets.it and based on the amount of money the user wants to gamble, and the probability of winning and projected earnings, we present the user with several flights from Skyscanner that fit the price range.
+<h3>Made with</h3>
+<center>
+<a href="#" class="btn btn--primary">SkyBets' API</a>
+<a href="#" class="btn btn--primary">SkyScanner's API</a>
+<a href="#" class="btn btn--primary">Python</a>
+<a href="#" class="btn btn--primary">Javascript</a>
+<a href="#" class="btn btn--primary">Amazon Web Services</a>
+<a href="#" class="btn btn--primary">Docker</a>
+<a href="#" class="btn btn--primary">Photoshop</a>
+<h3>Awards</h3>
+<li>Best use of domain name at HackSheffield 3.0
+
+<br>
+
+{: .text-center}
+<centre>
+<h2><a href="https://devpost.com/software/ka-bomb-com">Ka-bomb.com</a></h2>
+<center>Ka-bomb.com allows players to play a light clone of Bomberman online with 256 players.
+<h3>Made with</h3>
+<center>
+<a href="#" class="btn btn--primary">C#</a>
+<a href="#" class="btn btn--primary">JQuery</a>
+<a href="#" class="btn btn--primary">HTML5</a>
+
+<br>
+
+{: .text-center}
+<centre>
+<h2><a href="https://github.com/brandonskerritt/ciphey">Ciphey</a></h2>
+<center>Simple automatic decryption tool with English detection.
+<h3>Made with</h3>
+<center>
+<a href="#" class="btn btn--primary">Python</a>
+<a href="#" class="btn btn--primary">Knowledge of cryptography</a>
+
+<br>
+
+{: .text-center}
+<centre>
+<h2><a href="https://github.com/brandonskerritt/Hotel_assignment">Broadstairs Hotel</a></h2>
+<center>This is a website made for Broadstairs Hotel, for an assignment I was given.
+<h3>Made with</h3>
+<center>
+<a href="#" class="btn btn--primary">HTML5 / CSS3</a>
+<a href="#" class="btn btn--primary">JavaScript</a>
+<a href="#" class="btn btn--primary">Bootstrap</a>
+<a href="#" class="btn btn--primary">Photoshop</a>
+
+<br>
+
+{: .text-center}
+<centre>
+<h2><a href="https://github.com/brandonskerritt/counter_bro_miami">Counter Bro Miami</a></h2>
+<center>This is a game created in Unity for an assignment I was given. This game is a mix-up of Counter Strike and Hotline Miami.
+<h3>Made with</h3>
+<center>
+<a href="#" class="btn btn--primary">C#</a>
+<a href="#" class="btn btn--primary">Unity</a>
+<a href="#" class="btn btn--primary">Photoshop</a>
