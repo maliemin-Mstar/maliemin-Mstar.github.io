@@ -32,6 +32,7 @@ test
 <a href="#" class="btn btn--primary">Flask</a>
 <a href="#" class="btn btn--primary">Alexa</a>
 <a href="#" class="btn btn--primary">Amazon Web Services</a>
+{: .text-center}
 <h3>Awards</h3>
 <li>Best use of Amazon Web Services at Hacknotts 2016
 <h3>Live Demo</h3>
