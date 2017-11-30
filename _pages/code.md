@@ -36,7 +36,9 @@ author_profile: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4BFneUfHtzA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 <br>
+<hr>
 <br>
+
 
 <centre>
 <h2><a href="https://brandonskerritt.github.io/code/">LilJimbo</a></h2>
@@ -53,7 +55,7 @@ author_profile: true
 <img src="https://i.imgur.com/aoqUElx.gif" width="560" height="315"><br>
 
 <br>
-
+<hr>
 <br>
 
 
@@ -73,7 +75,8 @@ author_profile: true
 <li>Best use of domain name at HackSheffield 3.0
 
 <br>
-
+<hr>
+<br>
 
 <centre>
 <h2><a href="https://devpost.com/software/ka-bomb-com">Ka-bomb.com</a></h2>
@@ -85,7 +88,8 @@ author_profile: true
 <a href="#" class="btn btn--primary">HTML5</a>
 
 <br>
-
+<hr>
+<br>
 
 <centre>
 <h2><a href="https://github.com/brandonskerritt/ciphey">Ciphey</a></h2>
@@ -96,7 +100,8 @@ author_profile: true
 <a href="#" class="btn btn--primary">Knowledge of cryptography</a>
 
 <br>
-
+<hr>
+<br>
 
 <centre>
 <h2><a href="https://github.com/brandonskerritt/Hotel_assignment">Broadstairs Hotel</a></h2>
@@ -109,7 +114,8 @@ author_profile: true
 <a href="#" class="btn btn--primary">Photoshop</a>
 
 <br>
-
+<hr>
+<br>
 
 <centre>
 <h2><a href="https://github.com/brandonskerritt/counter_bro_miami">Counter Bro Miami</a></h2>
