@@ -113,7 +113,7 @@ I did everything from campaigning to events to looking after students.<br>
 
 </p></details>
 
----
+<br><br>
 
 <br><br>
 <h1>Code Portfolio</h1>
