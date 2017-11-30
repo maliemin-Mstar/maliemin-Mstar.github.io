@@ -20,9 +20,8 @@ author_profile: true
 
 
 
-<centre>
+<center>
 <h2><a href="https://devpost.com/software/bank-of-alexa">Bank of Alexa</a></h2>
-{: .text-center}
 <center>Control Capital One bank accounts with Alexa, essentially a virtual teller machine.
 <h3>Made with</h3>
 <center>
