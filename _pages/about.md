@@ -55,6 +55,7 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 {: .text-center}
 
 ---
+---
 <h1>Experience</h1>
 {: .text-center}  
 <center>
@@ -113,7 +114,10 @@ I did everything from campaigning to events to looking after students.<br>
 
 </p></details>
 
-<br><br>
+---
+---
+
+
 
 <br><br>
 <h1>Code Portfolio</h1>
