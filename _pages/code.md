@@ -22,6 +22,7 @@ author_profile: true
 
 <centre>
 <h2><a href="https://devpost.com/software/bank-of-alexa">Bank of Alexa</a></h2>
+{: .text-center}
 <center>Control Capital One bank accounts with Alexa, essentially a virtual teller machine.
 <h3>Made with</h3>
 <center>
@@ -47,6 +48,21 @@ Designed to provide first-aid information to prevent overuse of 999 and A&E for 
 <a href="#" class="btn btn--primary">Facebook Chatbot</a>
 <a href="#" class="btn btn--primary">Flask</a>
 <a href="#" class="btn btn--primary">Requests</a>
+
+
+<centre>
+<h2><a href="https://brandonskerritt.github.io/code/">LilJimbo</a></h2>
+<center>Designed to provide first-aid information to prevent overuse of 999 and A&E for things that could simply be solved such as minor burns.
+<h3>Made with</h3>
+<center>
+<a href="#" class="btn btn--primary">Python</a>
+<a href="#" class="btn btn--primary">Natural Language Processing</a>
+<a href="#" class="btn btn--primary">Heroku</a>
+<a href="#" class="btn btn--primary">Facebook Chatbot</a>
+<a href="#" class="btn btn--primary">Flask</a>
+<a href="#" class="btn btn--primary">Requests</a>
+<h3>Live Demo</h3>
+<img src="https://i.imgur.com/aoqUElx.gif" width="560" height="315"><br>
 
 <br>
 
