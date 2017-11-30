@@ -16,17 +16,20 @@ last_modified_at: 2017-11-06T16:27:14-05:00
 toc: true
 ---
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<centre>
 
-<div class="container">
-  <div class="row">
-    <div class="col"></div>
-    <div class="col">Column</div>
-    <div class="w-100"><h2><a href="https://devpost.com/software/bank-of-alexa">Bank of Alexa</a></h2></div>
-    <div class="col">Column</div>
-    <div class="col">Column</div>
-  </div>
-  <div class="row">
-    <div class="col"> TEST </div>
-  </div>
+<div id="bankOfAlexa">
+<h2><a href="https://devpost.com/software/bank-of-alexa">Bank of Alexa</a></h2>
+Control Capital One bank accounts with Alexa, essentially a virtual teller machine.
+<h3>Made with</h3>
+<a href="#" class="btn btn--primary">Capital One's Nessi API</a>
+<a href="#" class="btn btn--primary">Python</a>
+<a href="#" class="btn btn--primary">Flask</a>
+<a href="#" class="btn btn--primary">Alexa</a>
+<a href="#" class="btn btn--primary">Amazon Web Services</a>
+<h3>Awards</h3>
+<li>Best use of Amazon Web Services at Hacknotts 2016
+
 </div>
+
+</center>
