@@ -17,6 +17,10 @@ toc: true
 author_profile: true
 ---
 
+<center>
+test
+</center>
+
 {: .text-center}
 <centre>
 <h2><a href="https://devpost.com/software/bank-of-alexa">Bank of Alexa</a></h2>
