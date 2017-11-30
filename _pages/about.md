@@ -89,13 +89,13 @@ I did everything from campaigning to events to looking after students.<br>
 <details><summary>Expand to find out more!</summary><p>
 
 <h2>University of Liverpool</h2>
-  <b>Computer Science Tutor<b><br>
+  <b>Computer Science Tutor</b><br>
   Present<br>
   Tutoring year 11 school students in Computer Science
   <br>
 
   <h2>IDI Sprachen- und Dolmetscher-Institut*</h2>
-  </b>Guest Speaker</b><br>
+  <b>Guest Speaker</b><br>
   2016
   Gave a 2 hour lecture on England and the English language<br>
   Informally talked to students after the lecture about everything to do with England
