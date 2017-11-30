@@ -117,22 +117,3 @@ I did everything from campaigning to events to looking after students.<br>
 
 <br>
 <hr />
-
-
-
-
-<br><br>
-<h1>Code Portfolio</h1>
-<br>
-<br>
-<h2>LilJimbo</h2>
-<br>
-<img src="https://i.imgur.com/aoqUElx.gif"><br>
-Designed to provide first-aid information to prevent overuse of 999 and A&E for things that could simply be solved such as minor burns.<br>
-<a href="#" class="btn btn--primary">Python</a>
-<a href="#" class="btn btn--primary">Natural Language Processing</a>
-<a href="#" class="btn btn--primary">Heroku</a>
-<a href="#" class="btn btn--primary">Facebook Chatbot</a>
-<a href="#" class="btn btn--primary">Flask</a>
-<a href="#" class="btn btn--primary">Requests</a>
-
