@@ -14,6 +14,7 @@ layouts_gallery:
     alt: "archive layout example"
 last_modified_at: 2017-11-06T16:27:14-05:00
 toc: true
+author_profile: true
 ---
 
 <centre>
@@ -29,6 +30,7 @@ Control Capital One bank accounts with Alexa, essentially a virtual teller machi
 <a href="#" class="btn btn--primary">Amazon Web Services</a>
 <h3>Awards</h3>
 <li>Best use of Amazon Web Services at Hacknotts 2016
+<h3>Live Demo</h3>
 
 </div>
 
