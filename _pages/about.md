@@ -37,22 +37,22 @@ I have won at 2 hackathons, HackNotts 2016; my first hackathon, and Hack Sheffie
 
 **Languages**
 {: .text-center}
-<a href="#" class="btn btn--primary">Sign Language</a>
-<a href="#" class="btn btn--primary">Python</a>
-<a href="#" class="btn btn--primary">Haskell</a>
-<a href="#" class="btn btn--primary">Shell</a>
-<a href="#" class="btn btn--primary">HTML5 & CSS3</a>
-<a href="#" class="btn btn--primary">Git</a>
+<a href="https://www.british-sign.co.uk/" class="btn btn--primary">Sign Language</a>
+<a href="https://www.python.org/" class="btn btn--primary">Python</a>
+<a href="https://www.haskell.org/" class="btn btn--primary">Haskell</a>
+<a href="http://www.unix.org/whitepapers/shdiffs.html" class="btn btn--primary">Shell</a>
+<a href="https://en.wikipedia.org/wiki/HTML" class="btn btn--primary">HTML5 & CSS3</a>
+<a href="https://git-scm.com/" class="btn btn--primary">Git</a>
 {: .text-center}
 
 
 
 **Frameworks and APIs**
 {: .text-center}
-<a href="#" class="btn btn--primary">Bootstrap</a>
-<a href="#" class="btn btn--primary">Alexa</a>
-<a href="#" class="btn btn--primary">Capital One</a>
-<a href="#" class="btn btn--primary">Spotify</a>
+<a href="http://getbootstrap.com/" class="btn btn--primary">Bootstrap</a>
+<a href="https://developer.amazon.com/docs/alexa-voice-service/api-overview.html" class="btn btn--primary">Alexa</a>
+<a href="http://api.reimaginebanking.com/" class="btn btn--primary">Capital One</a>
+<a href="https://developer.spotify.com/" class="btn btn--primary">Spotify</a>
 {: .text-center}
 
 ---
