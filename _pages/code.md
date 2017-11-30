@@ -19,7 +19,6 @@ author_profile: true
 
 <centre>
 
-<div id="bankOfAlexa">
 <h2><a href="https://devpost.com/software/bank-of-alexa">Bank of Alexa</a></h2>
 Control Capital One bank accounts with Alexa, essentially a virtual teller machine.
 <h3>Made with</h3>
@@ -31,7 +30,5 @@ Control Capital One bank accounts with Alexa, essentially a virtual teller machi
 <h3>Awards</h3>
 <li>Best use of Amazon Web Services at Hacknotts 2016
 <h3>Live Demo</h3>
-
-</div>
 
 </center>
