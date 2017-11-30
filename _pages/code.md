@@ -55,7 +55,7 @@ Designed to provide first-aid information to prevent overuse of 999 and A&E for 
 {: .text-center}
 <centre>
 <h2><a href="https://devpost.com/software/bet-a-way">Bet-a-way</a></h2>
-<center>Bet-a-way looks are sports matches from Skybets. <br>it is based on the amount of money the user wants to gamble, and the probability of winning and projected earnings. <br?> We also present the user with several flights from Skyscanner that fit the earnings.
+<center>Bet-a-way looks are sports matches from Skybets. <br>It is based on the amount of money the user wants to gamble, and the probability of winning and projected earnings. <br> We also present the user with several flights from Skyscanner that fit the earnings.
 <h3>Made with</h3>
 <center>
 <a href="#" class="btn btn--primary">SkyBets' API</a>
