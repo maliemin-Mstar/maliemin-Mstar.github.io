@@ -36,7 +36,7 @@ author_profile: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4BFneUfHtzA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 <br>
-
+<br>
 <h2>LilJimbo</h2>
 <br>
 <img src="https://i.imgur.com/aoqUElx.gif" width="560" height="315"><br>
@@ -48,14 +48,14 @@ Designed to provide first-aid information to prevent overuse of 999 and A&E for 
 <a href="#" class="btn btn--primary">Flask</a>
 <a href="#" class="btn btn--primary">Requests</a>
 
-
+<br>
 
 <br>
 
 {: .text-center}
 <centre>
 <h2><a href="https://devpost.com/software/bet-a-way">Bet-a-way</a></h2>
-<center>Bet-a-way looks are sports matches from Skybets.it and based on the amount of money the user wants to gamble, and the probability of winning and projected earnings, we present the user with several flights from Skyscanner that fit the price range.
+<center>Bet-a-way looks are sports matches from Skybets. <br>it is based on the amount of money the user wants to gamble, and the probability of winning and projected earnings. <br?> We also present the user with several flights from Skyscanner that fit the earnings.
 <h3>Made with</h3>
 <center>
 <a href="#" class="btn btn--primary">SkyBets' API</a>
