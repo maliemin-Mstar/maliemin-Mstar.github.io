@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "About Me"
 excerpt: "About Brandon Skerritt"
 layouts_gallery:
