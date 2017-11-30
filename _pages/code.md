@@ -20,23 +20,38 @@ toc: true
 
 <div class="container">
   <div class="row">
+    <div class="col"></div>
+    <div class="col">Column</div>
+    <div class="w-100"><h2><a href="https://devpost.com/software/bank-of-alexa">Bank of Alexa</a></h2></div>
+    <div class="col">Column</div>
+    <div class="col">Column</div>
+  </div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<div class="container">
+  <div class="row">
     <div class="col-sm">
-      <a href="https://devpost.com/software/bank-of-alexa"><h2> Bank of Alexa </a></h2>
-      {: .text-center}
+    <h2><a href="https://devpost.com/software/bank-of-alexa">Bank of Alexa</a></h2>
+
+    <p>
       Control Capital One bank accounts with Alexa, essentially a virtual teller machine.
-      {: .text-center}
+    
       ## Made with
-      {: .text-center}
+
       * Capital One's Nessi API
       * Python
       * Flask
       * Alexa
       * Amazon Web Services
-      {: .text-center}
+      
       ## Awards
-      {: .text-center}
+      
       Best use of Amazon Web Services at Hacknotts 2016
-      {: .text-center}
+      </p>
     </div>
     <div class="col-sm">
       One of three columns
@@ -48,21 +63,21 @@ toc: true
 </div>
 ---
 # [Bank of Alexa](https://devpost.com/software/bank-of-alexa)
-{: .text-center}
+
 Control Capital One bank accounts with Alexa, essentially a virtual teller machine.
-{: .text-center}
+
 ## Made with
-{: .text-center}
+
 * Capital One's Nessi API
 * Python
 * Flask
 * Alexa
 * Amazon Web Services
-{: .text-center}
+
 ## Awards
-{: .text-center}
+
 Best use of Amazon Web Services at Hacknotts 2016
-{: .text-center}
+
 ---
 # [Bet-a-way](https://devpost.com/software/bet-a-way)
 Bet-a-way looks are sports matches from skybets.it and based on the amount of money the user want's to gamble, and the probability of winning and projected earnings, we present the user with several flights from skyscanner that fit the price range.
