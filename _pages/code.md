@@ -37,7 +37,7 @@ author_profile: true
 
 <br>
 <br>
-<h2><a href="www.brandonskerritt.github.io/code/">LilJimbo</a></h2>
+<h2><a href="https://brandonskerritt.github.io/code/">LilJimbo</a></h2>
 <br>
 <img src="https://i.imgur.com/aoqUElx.gif" width="560" height="315"><br>
 Designed to provide first-aid information to prevent overuse of 999 and A&E for things that could simply be solved such as minor burns.<br>
