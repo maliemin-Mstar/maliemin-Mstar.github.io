@@ -89,7 +89,7 @@ I did everything from campaigning to events to looking after students.<br>
 <details><summary>Expand to find out more!</summary><p>
 
 <h2>University of Liverpool</h2>
-  <b>Computer Science Tutor</b><br>
+  <b>Computer Science Tutor</b><br></b>
   Present<br>
   Tutoring year 11 school students in Computer Science
   <br>
