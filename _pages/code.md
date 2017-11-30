@@ -20,6 +20,7 @@ author_profile: true
 {: .text-center}
 <centre>
 <h2><a href="https://devpost.com/software/bank-of-alexa">Bank of Alexa</a></h2>
+{: .text-center}
 Control Capital One bank accounts with Alexa, essentially a virtual teller machine.
 <h3>Made with</h3>
 <a href="#" class="btn btn--primary">Capital One's Nessi API</a>
@@ -30,6 +31,6 @@ Control Capital One bank accounts with Alexa, essentially a virtual teller machi
 <h3>Awards</h3>
 <li>Best use of Amazon Web Services at Hacknotts 2016
 <h3>Live Demo</h3>
-</center>
+
 
 {: .text-center}
