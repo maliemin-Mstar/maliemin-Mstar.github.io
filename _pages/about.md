@@ -68,10 +68,12 @@ Regularly attend meetings to discuss and improve the department
 <br>
 
 <h2>SEO London</h2>
-<b>Engineering Engagement Programme</b><br>
+<b>Engineering Engagement Programme 2017</b><br>
 2017
-Selected to go to the highly sought after EEP by SEO London<br>
-Met with multiple recruiters and learnt many valuable employability lessions
+1 out of 724 candidates specially selected to attend the 2017/18 EEP organized by SEO London together with the Royal Academy of Engineering<br>
+Participated in soft skills training workshops, group exercises as well as sessions on how to handle technical interviews from industry professionals<br>
+Gained an invaluable insight into the industry from structured speed networking sessions with representatives from world class engineering firms Aecom, Amey, Arup, Atkins, BAE Systems, CH2M, Leonardo, Metaswitch, Network Rail, Rolls-Royce, Siemens and Thales <br>
+Joined an exclusive network of highly motivated, like-minded individuals striving to succeed while at the same time embodying the ethos of giving back to help future generation
 <br>
 
 <h2>East Kent College</h2>
