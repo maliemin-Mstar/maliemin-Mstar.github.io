@@ -70,7 +70,7 @@ Regularly attend meetings to discuss and improve the department
 <h2>SEO London</h2>
 <b>Engineering Engagement Programme 2017</b><br>
 2017<br>
-1 out of 72 candidates specially selected to attend the 2017/18 EEP<br> organised by SEO London together with<br> the Royal Academy of Engineering
+1 out of 72 candidates specially selected to attend the 2017/18 EEP<br> organised by SEO London together with<br> the Royal Academy of Engineering<br>
 Joined an exclusive network of highly motivated, like-minded individuals striving to succeed<br> while at the same time embodying the ethos of giving back to help future generation
 <br>
 
