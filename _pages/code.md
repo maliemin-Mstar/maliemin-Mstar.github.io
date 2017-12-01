@@ -73,6 +73,8 @@ author_profile: true
 <a href="#" class="btn btn--primary">Photoshop</a>
 <h3>Awards</h3>
 <li>Best use of domain name at HackSheffield 3.0
+<h3>Image </h3>
+<img src="https://i.imgur.com/75Lz4hG.jpg" width="560" height="315">
 
 <br>
 <hr>
