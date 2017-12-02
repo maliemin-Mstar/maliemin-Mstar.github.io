@@ -1,11 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://brandonskerritt.github.io/
-  - title: "About"
-    url: /about/
-  - title: "Code"
-    url: /code/
-  - title: "Blog"
-    url: https://medium.com/@brandonskerritt51
+    url: https://maliemin-Mstar.github.io/
+    #- title: "About"
+    #url: /about/
 
