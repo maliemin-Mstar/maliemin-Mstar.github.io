@@ -86,9 +86,9 @@ analytics:
 author:
   name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Obsessive problem solver who loves learning"
-  location         : "Liverpool, United Kingdom"
-  email            : "skerritt@protonmail.com"
+  bio              : "我是小松鼠"
+  location         : "Beijing"
+  email            : "maliemin.jj@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,23 +96,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "brandonskerritt"
+  github           : "maliemin-Mstar"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "brandonls"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
