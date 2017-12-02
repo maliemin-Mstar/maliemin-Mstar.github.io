@@ -14,7 +14,7 @@ locale                   : "en"
 title                    : "马列敏"
 title_separator          : "-"
 name                     : "About me"
-description              : "我是小松鼠"
+description              : "我是小松鼠，在这里记录我的想法"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "maliemin-Mstar/maliemin-Mstar.github.io"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "我是小松鼠"
+  bio              : "我是小松鼠，在这里记录我的想法"
   location         : "Beijing"
   email            : "maliemin.jj@gmail.com"
   uri              :
